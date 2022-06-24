@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escrito_Grafica", "Escrito_Grafica\Escrito_Grafica.csproj", "{710C0E61-DBEA-4C0F-BA78-1C21288DA874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{710C0E61-DBEA-4C0F-BA78-1C21288DA874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710C0E61-DBEA-4C0F-BA78-1C21288DA874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710C0E61-DBEA-4C0F-BA78-1C21288DA874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710C0E61-DBEA-4C0F-BA78-1C21288DA874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6F584F-6499-4267-AFCC-B5F49DD5B72D}
+	EndGlobalSection
+EndGlobal
